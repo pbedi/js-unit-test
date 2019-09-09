@@ -1,0 +1,23 @@
+{
+  "name": "checkout",
+  "version": "1.0.0",
+  "description": "Checkout unit test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbedi/js-unit-test.git"
+  },
+  "author": "Philip Bedi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pbedi/js-unit-test/issues"
+  },
+  "homepage": "https://github.com/pbedi/js-unit-test#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  }
+}
